@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MAD2017
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning Python
